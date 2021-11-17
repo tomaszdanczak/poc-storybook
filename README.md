@@ -1,4 +1,4 @@
-# Proof of Concept - ![React Storybook Crash Course](https://www.youtube.com/watch?v=FUKpWgRyPlU&)
+# Proof of Concept - [React Storybook Crash Course](https://www.youtube.com/watch?v=FUKpWgRyPlU&)
 
 ## Scripts
 
